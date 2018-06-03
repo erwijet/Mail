@@ -1,0 +1,13 @@
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\bin\Debug\Mail.exe
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\bin\Debug\Mail.pdb
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\obj\x86\Debug\Mail.frm_Mail.resources
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\obj\x86\Debug\Mail.Properties.Resources.resources
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\obj\x86\Debug\Mail.csproj.GenerateResource.Cache
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\obj\x86\Debug\Mail.exe
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\obj\x86\Debug\Mail.pdb
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\bin\Debug\Mail.exe.manifest
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\bin\Debug\Mail.application
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\obj\x86\Debug\Mail.exe.manifest
+C:\Users\Tyler\AppData\Local\Temporary Projects\Mail\obj\x86\Debug\Mail.application
+C:\Users\Tyler\Desktop\C# Files\Projects\Mail\Mail\Mail\obj\x86\Debug\Mail.exe
+C:\Users\Tyler\Desktop\C# Files\Projects\Mail\Mail\Mail\obj\x86\Debug\Mail.pdb
